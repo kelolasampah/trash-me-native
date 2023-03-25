@@ -1,0 +1,50 @@
+{
+  "key": "1",
+  "title": "Layanan Kami",
+  "type": "menu",
+  "data": [
+    {
+      "key": "1",
+      "type": "service",
+      "text": "Pengambilan Sampah",
+      "image": "",
+      "navigation":"ServiceNav",
+      "screen": "Taking"
+    },
+    {
+      "key": "2",
+      "type": "service",
+      "text": "Peralatan Sampah",
+      "navigation":"ServiceNav",
+      "screen": "Equipment"
+    },
+    {
+      "key": "3",
+      "type": "service",
+      "text": "Hasil Olah Sampah",
+      "navigation":"ProductNav",
+      "screen": "ProductContainer"
+    },
+    {
+      "key": "4",
+      "type": "service",
+      "text": "Kelola Sampah Konvensional",
+      "navigation":"ServiceNav",
+      "screen": "Conventional"
+    },
+    {
+      "key": "5",
+      "type": "service",
+      "text": "Kelola Sampah Smart",
+      "navigation":"ServiceNav",
+      "screen": "Smart"
+    },
+    {
+      "key": "6",
+      "type": "service",
+      "text": "Forum Diskusi",
+      "navigation":"ServiceNav",
+      "screen": "Forum"
+    }
+  ]
+}

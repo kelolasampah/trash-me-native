@@ -1,0 +1,96 @@
+[
+    {
+        "key": "2",
+        "title": "Terbaru dan Terpanas",
+        "type": "ads",
+        "data": [
+            {
+                "key": "1",
+                "type": "ads",
+                "text": "Iklan pertam",
+                "image": "https://picsum.photos/600"
+            },
+            {
+                "key": "2",
+                "type": "ads",
+                "text": "Iklan kedua",
+                "image": "https://picsum.photos/500"
+            },
+            {
+                "key": "3",
+                "type": "ads",
+                "text": "Iklan ketiga",
+                "image": "https://picsum.photos/500"
+            },
+            {
+                "key": "4",
+                "type": "ads",
+                "text": "Iklan keempat",
+                "image": ""
+            },
+            {
+                "key": "5",
+                "type": "ads",
+                "text": "Iklan kelima",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "key": "1",
+        "title": "Information",
+        "type": "info",
+        "data": [
+            {
+                "key": "1",
+                "type": "information",
+                "text": "Isi informasi pertama",
+                "image": "https://picsum.photos/700"
+            },
+            {
+                "key": "2",
+                "type": "information",
+                "text": "Isi informasi kedua hingga kini belum diubah dikarenakan masih dalam pengembangan dan akan dikerjakan lagi nanti ketika ada pembaharuan",
+                "image": "https://picsum.photos/600"
+            },
+            {
+                "key": "3",
+                "type": "information",
+                "text": "Isi informasi ketiga",
+                "image": "https://picsum.photos/500"
+            },
+            {
+                "key": "4",
+                "type": "information",
+                "text": "Isi informasi keempat",
+                "image": ""
+            },
+            {
+                "key": "5",
+                "type": "information",
+                "text": "Isi informasi kelima",
+                "image": ""
+            },
+            {
+                "key": "6",
+                "type": "information",
+                "text": "Isi informasi keenam",
+                "image": ""
+            }
+            ,
+            {
+                "key": "7",
+                "type": "information",
+                "text": "Isi informasi ketujuh",
+                "image": ""
+            }
+            ,
+            {
+                "key": "8",
+                "type": "information",
+                "text": "Isi informasi kedelapan",
+                "image": ""
+            }
+        ]
+    }
+]

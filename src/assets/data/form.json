@@ -1,0 +1,62 @@
+[
+    {
+        "key": "0",
+        "type": "address",
+        "data": [
+            {
+                "key": "0",
+                "label": "Provinsi",
+                "name": "provinces",
+                "message": "Provinsi tidak boleh kosong!"
+            },
+            {
+                "key": "1",
+                "label": "Kab/Kota",
+                "name": "regencies",
+                "message": "Kab/Kota tidak boleh kosong!"
+            },
+            {
+                "key": "2",
+                "label": "Kecamatan",
+                "name": "districts",
+                "message": "Kecamatan tidak boleh kosong!"
+            },
+            {
+                "key": "3",
+                "label": "Kelurahan",
+                "name": "villages",
+                "message": "Kelurahan tidak boleh kosong!"
+            }
+        ]
+    },  
+    {
+        "key": "1",
+        "type": "update",
+        "data": [
+            {
+                "key": "0",
+                "label": "Provinsi",
+                "name": "provinces",
+                "message": "Provinsi tidak boleh kosong!"
+            },
+            {
+                "key": "1",
+                "label": "Kab/Kota",
+                "name": "regencies",
+                "message": "Kab/Kota tidak boleh kosong!"
+            },
+            {
+                "key": "2",
+                "label": "Kecamatan",
+                "name": "districts",
+                "message": "Kecamatan tidak boleh kosong!"
+            },
+            {
+                "key": "3",
+                "label": "Kelurahan",
+                "name": "villages",
+                "message": "Kelurahan tidak boleh kosong!"
+            }
+        ]
+    }    
+]
